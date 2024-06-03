@@ -1,5 +1,5 @@
-<?php/*
-require 'db.php'; // Archivo de conexión a la base de datos
+<?php
+/*require 'db.php'; // Archivo de conexión a la base de datos
 
 // Contraseña administrativa en texto plano
 $contraseña_administrativa = "dom23";
@@ -15,3 +15,4 @@ $stmt->execute();
 
 echo "Usuario administrador insertado correctamente en la base de datos.";
 ?>
+*/
